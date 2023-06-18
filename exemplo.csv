@@ -1,2 +1,243 @@
-id_passageiro,classe,sobreviveu,nome,sexo,idade,irmaos_conjuges,pais_filhos,bilhete,tarifa,cabine,embarque,bote,corpo,destino
-1,1,1,"Allen, Miss. Elisabeth Walton",female,29,0,0,24160,211.3375,B5,S,2,,"St Louis, MO"
+   nome,sexo,idade
+Alan Raí Rehbein de Oliveira,M,26
+Alexandre Ames Prado, M,19
+Alex Giacomolli,M,19
+Alisson Oliveira da Silva,M,22
+Allana Willers                                 F                             18
+Ana Caroline Rodrigues                         F                             24
+Ana Paula Anibaletto dos Santos                F
+Ana Paula Rodrigues                            F
+André Cadore Bosser                            M
+Andressa Ferreira Flores                       F
+Andressa Inaja de Moura Ferreira               F
+Andressa Rooz Paz                              F
+Andressa Thalita Farias Brissow                F
+Andrieli Righi da Silva                        F
+Andrise Farias Nicoletti                       F
+Ângelo Nicoloso Aita                           M
+Ariel Nunes Andreatta                          F
+Augusto Cezar Neves                            M
+Augusto Malezan de Almeida Gomes               M
+Augusto Sérgio Krauspenhar da Silva            M
+Bárbara Moraes Nunes                           F
+Benhur Retzlaff Rodrigues                      M
+Bernardo Carlo Kobe                            M
+Bibiana Berleze                                F
+Brady Adrian Gonçalves Silveira                M
+Bruna Brondani Papalia                         F
+Bruna Camila Graeff                            F
+Bruna Eduarda Neu                              F
+Bruna Karoline Occai                           F
+Bruno Kräulich                                 F
+Bruno Portella Fricks                          F
+Camila Massulo Ramos                           F
+Carolina Simões Corte Real                     F
+Carlitos Chaves Soares                         M
+Carlos Alexandre dos Santos Machado            M
+Cássio Garcez Biscaino                         M
+Cecília Soares Vargas                          F
+Clarissa Lima Teixeira                         F 
+Crisley Caroline Saraiva Freitas da Palma      F 
+Cristiane Quevedo da Rosa                      F
+Daniel Cechin                                  M 
+Daniel Knabben da Rosa                         M
+Daniela Betega Ahmad                           F
+Daniele Dias de Mattos                         F 
+Danilo Brauner Jaques                          M
+Danrlei Darin                                  M
+David Santiago de Souza                        M  
+Débora Chiappa Forner                          F
+Deives Marques Gonçalves                       M
+Diego Comim Silvéster                          M
+Dionatha Kamphorst                             M
+Douglas da Silva Flores                        M
+Dulce Raniere Gomes Machado                    F
+Driele Pedroso Lucas                           F
+Elisandro Oliveira Rolim                       M 
+Emerson Cardoso Paim                           M
+Emili Contreira Ercolani                       F
+Ericson Ávila dos Santos                       M
+Érika Sarturi Becker                           F   
+Evelin Costa Lopes                             F
+Fábio José Cervinski                           M
+Felipe Vieira                                  M
+Fernanda de Lima Malheiros                     F
+Fernanda Tischer                               F
+Fernando Michel Vogarins Parcianello           M 
+Fernando Pellin                                M    
+Flávia de Carli Magalhães                      F
+Flávia Maria Torres Lemos                      F
+Franciele Vizioli                              F
+Francielle Araújo Vieira                       F
+Francielli Soares Vargas                       F 
+Gabriela Corcine Sanchotene                    F
+Gabriella dos Santos Saenger                   F
+Geni Lourenço da Silva                         M
+Gilmara Quintanilha Oliveira                   F
+Giovane Krauchemberg Simões                    M
+Greicy Pazini Bairro                           F
+Guido Ramón Britez Burró                       M
+Guilherme Pontes Gonçalves                     M
+Gustavo Ferreira Soares                        M
+Gustavo Marques de Gonçalves                   M
+Heitor Santos Oliveira Teixeira                M
+Heitor Teixeira Gonçalves                      M
+Helena Poletto Dambrós                         F
+Helio Trentin Júnior                           M
+Henrique Nemitz Martins                        M
+Herbert Magalhães Charão                       M
+Igor Stephan de Oliveira                       M
+Ilivelton Martins Koglin                       M
+Isabella Fiorini                               F
+Ivan Munchen                                   M
+Jacob Franscisco Thiele                        M 
+Jaderson da Silva                              M                            
+Janaína Portela                                F
+Jennefer Mendes Ferreira                       F
+Jéssica Almeida Konzen                         F
+João Aloísio Treulieb                          M     
+João Carlos Barcellos                          M
+João Paulo Pozzobom                            M
+João Renato Chagas de Souza                    M  
+José Luiz Weiss Neto                           M
+José Manuel Rosa da Cruz                       M
+Julia Cristofari Sául                          F
+Juliana Moro Medeiros                          F
+Juliana Oliveira dos Santos                    F
+Juliana Speroni Lentz                          F  
+Juliano de Almeida Farias                      M
+Karin Fernanda Knirsch                         F 
+Kellen Aline Karsten Favarin                   F
+Kellen Pereira da Rosa                         F
+Kelli Anne Santos Azzolin                      F
+Larissa Holsbach                               F
+Larissa Terres Teixeira                        F  
+Laureane Salapata                              F
+Leandra Fernandes Toniolo                      F
+Leandro Avila Leivas                           M
+Leandro Nunes da Silva                         M
+Leonardo de Lima Machado                       M
+Leonardo Lemos Karsburg                        M
+Leonardo Machado de Lacerda                    M
+Leonardo Schoff Vendrúsculo                    M
+Letícia Baú                                    F 
+Letícia Ferraz da Cruz                         F
+Letícia Vasconcellos                           F
+Lincon Turcato Carabagialle                    M
+Louise Victória Farias Brissow                 F
+Luana Behr Vianna                              F
+Luana Facco Ferreira                           F
+Lucas Dias de Oliveira                         M
+Lucas Foggiato                                 M 
+Lucas Leite Teixeira                           M
+Luciane Moraes Lopes                           F  
+Luciano Ariel Silva da Silva                   M 
+Luciano Tagliapietra Esperdião                 M
+Luís Felipe Balest Piovesan                    M
+Luisa Bastitella Puttow                        F
+Luiz Antônio Xisto                             M
+Luiz Carlos Ludin de Oliveira                  M
+Luiz Eduardo Viegas Flores                     M
+Luiz Fernando Riva Donati                      M
+Luiz Fernando Rodrigues Wagner                 M
+Luiza Alves da Silva                           F
+Maicon Apolinário Cardoso                      M
+Maicon Douglas Moreira Iensen                  M
+Maicon Francisco Evaldt                        M
+Manoeli Moreira Passamani                      F 
+Marcelo de Freitas Salla Filho                 M
+Marcos André Rigoli                            M
+Marfisa Soares Caminha                         F 
+Maria Mariana Rodrigues Ferreira               F
+Mariana Comassetto do Canto                    F
+Mariana Machado Bona                           F 
+Mariana Moreira Macedo                         F
+Mariana Pereira Freitas                        F
+Mariane Wallau Vielmo                          F
+Marilene Iensen Castro                         F 
+Marina de Jesus Nunes                          F
+Marina Kerttermann Callegaro                   F
+Martim Francisco Mascarenhas De Souza Onofrio  M     
+Marton Matana                                  M
+Matheus de Lima Librelotto                     M 
+Matheus Engers Rebolho                         M
+Matheus Pacheco Brondani                       M
+Matheus Rafael Raschen                         M
+Maurício Loreto Jaime                          M
+Melissa Berguemaier Correa                     F 
+Melissa do Amaral Dalforno                     F
+Merylin Camargo dos Santos                     F
+Michele Cardoso                                F
+Michéli Dias de Campos                         F   
+Miguel Webber May                              M   
+Mirela Rosa da Cruz                            F   
+Mônica Andressa Glanzel                        F
+Murilo Garcez Fumaco                           M
+Murilo Souza Baroni Silveira                   M 
+Natana Pereira Canto                           F 
+Natascha Oliveira Urquiza                      F
+Nathiele dos Santos Soares                     F
+Neiva Carina de Oliveira Marin                 F 
+Octacílio Altíssimo Gonçalves                  M
+Odomar Gonzaga Noronha                         M
+Pâmela de Jesus Lopes                          F 
+Paola Porto Rodrigues Costa                    F
+Patrícia Pazini Bairro                         F
+Paula Batistella Gatto                         F
+Paula Simone Melo Prates                       F
+Pedro Almeida                                  M
+Pedro Falcão Pinheiro                          M
+Pedro de Oliveira Salla                        M
+Pedro Morgental Silva                          M  
+Priscila Ferreira Escobar                      F 
+Rafael de Oliveira Dorneles                    M
+Rafael Dias Ferreira                           M
+Rafael Paulo Nunes de Carvalho                 M
+Rafael Quilião de Oliveira                     M
+Rafaela Schmitt Nunes                          F
+Raquel Daiane Fischer                          F
+Rhaissa Gross Cúria                            F
+Rhuan Scherer de Andrade                       M
+Ricardo Custódio                               M
+Ricardo Dariva                                 M
+Ricardo Stefanello Piovesan                    M
+Robson Van Der Ham                             M
+Rodrigo Dellinghausen Bairros Costa            M  
+Rodrigo Taugen                                 M
+Roger Barcellos Farias                         M
+Roger Dall'agnol                               M
+Rogério Cardoso Ivaniski                       M  
+Rogério Floriano Cardoso                       M
+Rosane Fernandes Rechemann                     F  
+Ruan Pendeza Callegaro                         M
+Sabrina Soares Mendes                          F
+Sandra Leone Pacheco Ernesto                   F
+Sandra Victorino Goulart                       F  
+Shaiana Tauchem Antolini                       F
+Silvio Beuren Júnior                           M       
+Stefani Posser Simeoni                         F
+Susiele Cassol                                 F
+Taís da Silva Scaphin de Freitas               F
+Taíse Carolina Viñas Silveira                  F
+Taíse Santos dos Santos                        F
+Tanise Lopes Cielo                             F
+Thailan de Oliveira                            M        
+Thailan Rehbein de Oliveira                    M
+Thais Zimmermann Darif                         F
+Thanise Correa Garcia                          F
+Tiago Amaro Cechinatto                         M
+Tiago Dovigi Segabinazzi                       M
+Ubirajara Soares Bastos Júnior                 M 
+Vagner Rolim Marostega                         M
+Vandelcork Marques Lara Júnior                 M
+Vanessa Vancovicht Soares                      F
+Victor Datria Macagnan                         F
+Vinicius Pinton Greff                          M
+Vinicius Marconato Uggeri                      M
+Vinicius Montardo Rosado                       M
+Vinicius Pagnossim de Moraes                   M               
+Vinicius Silveira Marques de Mello             M   
+Viviane Tólio Soares                           F
+Vitória Dacorso Saccol                         F
+Walter de Mello Cabistani                      M  
+Wictor Martins Schmitz                         M
